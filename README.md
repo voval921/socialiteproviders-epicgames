@@ -1,4 +1,4 @@
-# Steam
+# Epic Games
 
 ```bash
 composer require voval921/socialiteproviders-epicgames
